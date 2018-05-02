@@ -1,0 +1,26 @@
+# MI PLATZOM
+Es un archivo para probar npm con librerias de js.
+
+[Yahoo es un site de noticias] (http://yahoo.com)
+
+## Descripcion del js
+- Regla 1
+- Regla 2
+- Regla 3
+
+## Instalacion
+```
+npm install platzom
+```
+
+## Uso
+```
+import platzom from platzom
+platzom("string prueba")
+```
+## Creditos
+- mio
+
+## Licencia
+MIT
+

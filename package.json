@@ -1,0 +1,30 @@
+{
+  "name": "platzom",
+  "version": "1.0.0",
+  "description": "clases de js",
+  "main": "dist/src/platzom.js",
+  "scripts": {
+    "build": "babel src -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilmerag/platzom.git"
+  },
+  "keywords": [
+    "pruebas",
+    "js"
+  ],
+  "author": "Wilmer Aguirre <wilmer_ag@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wilmerag/platzom/issues"
+  },
+  "homepage": "https://github.com/wilmerag/platzom#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
+}
